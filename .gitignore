@@ -5,3 +5,4 @@ node_modules
 dist
 etc/app.config.custom.js
 etc/webpack.config.custom.js
+.vscode/
