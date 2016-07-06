@@ -1,0 +1,7 @@
+.idea/
+node_modules
+*.log
+.DS_Store
+dist
+etc/app.config.custom.js
+etc/webpack.config.custom.js
