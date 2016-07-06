@@ -1,5 +1,5 @@
 ### This example is still a WOP
-a quick example app that illustrated how one might want to handle very large lists (10000 items +) in react
+a quick example app that illustrates how one might want to handle very large lists (10000 items +) in react
 
 ##### You will need to have node.js installed to run the dev environment
 [NODE.js Installers](https://nodejs.org/en/)
